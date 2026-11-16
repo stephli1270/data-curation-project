@@ -144,6 +144,7 @@ themselves to the shared github repo
 
 Stephanie: I helped with discussion on our new topic, cleaned the crashes dataset, and drafted the updates and challenges portions of this status update.
 
+
 Suha: I found the new datasets for our new topic. I also cleaned the 3 datasets that we are going to be working with.
 
 Roqaya: I contributed to our team's discussions about changing the project topic and reviewing the new datasets. I also helped update our project timeline and identify the remaining steps needed to complete the data integration, quality assessment, and final project requirements.
